@@ -37,9 +37,7 @@ body {
     display: none !important;
 }
 
-/* ----------------------------------
-   GLOBAL NEU ELEMENTS
------------------------------------ */
+
 .neu-btn {
     border: var(--border);
     padding: 0.8rem 1.5rem;
@@ -80,9 +78,7 @@ body {
     margin-top: 1rem;
 }
 
-/* ----------------------------------
-   FULL LANDING PAGE WRAPPER
------------------------------------ */
+
 .landing-wrapper {
     width: 100%;
     min-height: 100vh;
@@ -367,9 +363,7 @@ body {
     margin-top: auto;
 }
 
-/* ----------------------------------
-   MAIN DASHBOARD
------------------------------------ */
+
 .dashboard {
     width: 100%;
     max-width: 550px;
